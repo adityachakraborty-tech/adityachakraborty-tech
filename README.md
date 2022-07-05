@@ -1,7 +1,6 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQH-KNnmUFQfiA/profile-displaybackgroundimage-shrink_200_800/0/1641960370683?e=1658966400&v=beta&t=FG2UxulFOaniOkvM2KtpMIJY_L9NwAp-qz7kvmL4sqc)]
 <h1 align="center">Hi 👋, I'm Aditya Chakraborty</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f6k284llp1zpywsgaw0plfwmgqe5yeb2ftiqmhwr&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="500"src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f6k284llp1zpywsgaw0plfwmgqe5yeb2ftiqmhwr&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityachakraborty-tech&label=Profile%20views&color=0e75b6&style=flat" alt="adityachakraborty-tech" /> </p>
 
@@ -12,6 +11,8 @@
 - 💬 Ask me about **Web Development , Programming.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aditya-chakraborty-3a625817b/**
+
+- ⚡ Fun fact **I think I am Funny (WOW)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
