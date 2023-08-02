@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Chakraborty</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="500"src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f6k284llp1zpywsgaw0plfwmgqe5yeb2ftiqmhwr&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityachakraborty-tech&label=Profile%20views&color=0e75b6&style=flat" alt="adityachakraborty-tech" /> </p>
